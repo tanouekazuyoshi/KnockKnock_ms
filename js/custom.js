@@ -113,6 +113,12 @@ $(document).ready(function () {
 		language: 'ja',
 		startView: 1,
 	});
+
+	$('#editOpenResDate').datepicker({
+		format: 'yyyy/mm/dd',
+		language: 'ja',
+		startView: 1,
+	});
 	
 
 	$('#realperson-check').realperson();

@@ -253,3 +253,11 @@ color: black;
 .terms-of-service h1 {
 text-transform: initial;
 }
+
+/************* Inquiry reply ******************/
+.inquiry-reply {
+  margin: 3rem 0;
+}
+.inquiry-reply input{
+  margin-bottom: initial;
+}
